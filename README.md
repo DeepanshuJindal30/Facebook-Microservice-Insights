@@ -92,5 +92,5 @@ facebook_project/
 Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
 ## License
-This project is licensed under [Your License Here].
+This project is licensed under Deepanshu Jindal.
 
